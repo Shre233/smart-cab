@@ -1,0 +1,14 @@
+nav {
+    background-color: #2d3748;
+    padding: 2rem;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 1rem;
+}
+
+nav a:hover {
+    color: lightgray; /* Light gray on hover */
+}
